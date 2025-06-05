@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
 # RN-APP
-=======
+
 # React Native Mobile App
 
 A comprehensive mobile application built with React Native, featuring a modern UI design and various functionalities including authentication, product management, camera integration, and notifications.
@@ -111,4 +110,3 @@ src/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
->>>>>>> Stashed changes
